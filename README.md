@@ -1,6 +1,6 @@
 ## Estruturas que utilizo em meus projetos:
 
-|               |               |
-|-              |-              |
-| React         |  [link](a)    |
-| Vue           |  [link](a)    |
+| Aplicação     | Link                                                                                      |
+|-              |-                                                                                          |
+| React         |  [Estrutura](https://github.com/allanfoppa/frontend-folder-structure/tree/main/react)     |
+| Vue           |  [Estrutura](https://github.com/allanfoppa/frontend-folder-structure/tree/main/vue)       |
